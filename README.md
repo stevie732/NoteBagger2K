@@ -1,23 +1,30 @@
-# Note-Bagger 2K
+# 📝 Note-Bagger 2K
 
 Note-Bagger 2K is a simple note-taking application built with React, TypeScript, and Bootstrap. It allows users to create, view, and delete notes.
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Components](#components)
+  - [App](#app)
+  - [Header](#header)
+  - [NotesList](#noteslist)
+  - [Notes](#notes)
+  - [CreateNotes](#createnotes)
+  - [Footer](#footer)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## ✨ Features
 
-- Create new notes with a title, text, and color.
-- View a list of all notes.
-- Delete notes.
+- 📝 Create new notes with a title, text, and color.
+- 📋 View a list of all notes.
+- 🗑️ Delete notes.
 
-## Installation
+## 🛠️ Installation
 
 1. Clone the repository:
 
@@ -32,7 +39,7 @@ Note-Bagger 2K is a simple note-taking application built with React, TypeScript,
     npm install
     ```
 
-## Usage
+## 🚀 Usage
 
 1. Start the development server:
 
@@ -42,13 +49,14 @@ Note-Bagger 2K is a simple note-taking application built with React, TypeScript,
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
+## 📂 Project Structure
 
 ```plaintext
 .gitignore
 eslint.config.js
 index.html
 package.json
+README.md
 src/
   App.tsx
   components/
