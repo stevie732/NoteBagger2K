@@ -2,6 +2,8 @@
 
 Note-Bagger 2K is a simple note-taking application built with React, TypeScript, and Bootstrap. It allows users to create, view, and delete notes.
 
+Hold UP! 
+Not it is not bagging no notes on my watch foo!
 ## 📋 Table of Contents
 
 - [Features](#features)
